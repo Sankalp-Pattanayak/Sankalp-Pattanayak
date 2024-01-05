@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Basic Converter Websites<br><br>🌱 I’m currently learning Python, JavaScript<br><br>📫 How to reach me spattanayak2214@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1yjfaXsptPi_BjKYNHjIU6-_aGj4qVsxw/view?usp=share_link<br><br>⚡ Fun fact I think i code well😅
+🔭 I am an aspiring Data Scientist with keen interest in Machine Learning and Deep learning<br><br>🌱 I’m currently learning Python, Tensorflow<br><br>📫 How to reach me spattanayak2214@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1yjfaXsptPi_BjKYNHjIU6-_aGj4qVsxw/view?usp=share_link<br><br>⚡ Fun fact I think i code well😅
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 
